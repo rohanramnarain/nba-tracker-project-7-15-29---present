@@ -1,0 +1,511 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,
+42400407,2,12,0,1,8:09 PM,12:00,,Start of 1st Period (8:09 PM EST),,,,0
+42400407,4,10,0,1,8:09 PM,12:00,Jump Ball Holmgren vs. Turner: Tip to Haliburton,,,,,4
+42400407,7,1,79,1,8:09 PM,11:44,,,Nembhard 14' Pullup Jump Shot (2 PTS),Feb-00,-2,5
+42400407,8,2,80,1,8:10 PM,11:29,MISS Jal. Williams 10' Step Back Jump Shot,,Nesmith BLOCK (1 BLK),,,4
+42400407,10,4,0,1,8:10 PM,11:25,,,Nesmith REBOUND (Off:0 Def:1),,,5
+42400407,11,6,1,1,8:10 PM,11:17,Dort P.FOUL (P1.T1) (S.Wright),,,,,4
+42400407,13,2,1,1,8:10 PM,11:11,,,MISS Turner 24' 3PT Jump Shot,,,5
+42400407,14,4,0,1,8:10 PM,11:08,Holmgren REBOUND (Off:0 Def:1),,,,,4
+42400407,15,1,80,1,8:10 PM,10:57,Gilgeous-Alexander 15' Step Back Jump Shot (2 PTS),,,2-Feb,TIE,4
+42400407,16,1,1,1,8:11 PM,10:45,,,Siakam 25' 3PT Jump Shot (3 PTS) (Nembhard 1 AST),2-May,-3,5
+42400407,18,2,79,1,8:11 PM,10:17,MISS Gilgeous-Alexander 21' Pullup Jump Shot,,,,,4
+42400407,19,4,0,1,8:11 PM,10:15,,,Pacers Rebound,,,3
+42400407,20,6,3,1,8:11 PM,10:15,Holmgren L.B.FOUL (P1.T2) (J.Tiven),,,,,4
+42400407,22,2,6,1,8:12 PM,9:59,Holmgren BLOCK (1 BLK),,MISS Nembhard 7' Driving Layup,,,5
+42400407,24,4,0,1,8:12 PM,9:56,,,Nembhard REBOUND (Off:1 Def:0),,,5
+42400407,25,2,79,1,8:12 PM,9:54,,,MISS Siakam 15' Pullup Jump Shot,,,5
+42400407,26,4,0,1,8:12 PM,9:51,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,,,4
+42400407,27,6,1,1,8:12 PM,9:45,,,Nesmith P.FOUL (P1.T1) (J.Capers),,,5
+42400407,29,1,79,1,8:12 PM,9:35,Gilgeous-Alexander 15' Pullup Jump Shot (4 PTS),,,4-May,-1,4
+42400407,30,2,6,1,8:13 PM,9:21,Gilgeous-Alexander BLOCK (1 BLK),,MISS Haliburton 1' Driving Layup,,,5
+42400407,32,4,0,1,8:13 PM,9:18,Holmgren REBOUND (Off:0 Def:2),,,,,4
+42400407,33,1,47,1,8:13 PM,8:58,Holmgren 15' Turnaround Jump Shot (2 PTS) (Jal. Williams 1 AST),,,6-May,1,4
+42400407,35,1,1,1,8:13 PM,8:33,,,Haliburton 25' 3PT Jump Shot (3 PTS) (Siakam 1 AST),6-Aug,-2,5
+42400407,37,2,101,1,8:14 PM,8:11,MISS Jal. Williams 6' Driving Floating Jump Shot,,,,,4
+42400407,38,4,0,1,8:14 PM,8:09,,,Nembhard REBOUND (Off:1 Def:1),,,5
+42400407,39,1,2,1,8:14 PM,8:05,,,Haliburton 24' 3PT Running Jump Shot (6 PTS) (Nembhard 2 AST),6-Nov,-5,5
+42400407,41,1,98,1,8:14 PM,7:46,Dort 3' Cutting Layup Shot (2 PTS) (Hartenstein 1 AST),,,8-Nov,-3,4
+42400407,43,2,80,1,8:14 PM,7:32,,,MISS Siakam 15' Step Back Jump Shot,,,5
+42400407,44,4,0,1,8:15 PM,7:29,Holmgren REBOUND (Off:0 Def:3),,,,,4
+42400407,45,6,2,1,8:15 PM,7:21,,,Nesmith S.FOUL (P2.T2) (J.Tiven),,,5
+42400407,47,3,11,1,8:15 PM,7:21,Gilgeous-Alexander Free Throw 1 of 2 (5 PTS),,,9-Nov,-2,4
+42400407,48,8,0,1,8:15 PM,7:21,SUB: Caruso FOR Holmgren,,,,,4
+42400407,49,8,0,1,8:15 PM,7:21,,,SUB: Mathurin FOR Nesmith,,,5
+42400407,52,3,12,1,8:16 PM,7:21,Gilgeous-Alexander Free Throw 2 of 2 (6 PTS),,,10-Nov,-1,4
+42400407,53,2,79,1,8:16 PM,7:08,,,MISS Haliburton 25' 3PT Pullup Jump Shot,,,5
+42400407,54,4,0,1,8:16 PM,7:03,,,Mathurin REBOUND (Off:1 Def:0),,,5
+42400407,55,1,1,1,8:16 PM,7:01,,,Haliburton 27' 3PT Jump Shot (9 PTS) (Mathurin 1 AST),14 - 10,-4,5
+42400407,57,9,1,1,8:16 PM,6:58,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2
+42400407,58,8,0,1,8:19 PM,6:58,,,SUB: Toppin FOR Siakam,,,5
+42400407,60,1,1,1,8:20 PM,6:43,Caruso 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),,,14 - 13,-1,4
+42400407,62,2,79,1,8:21 PM,6:13,,,MISS Mathurin 24' 3PT Pullup Jump Shot,,,5
+42400407,63,4,0,1,8:21 PM,6:11,Hartenstein REBOUND (Off:0 Def:1),,,,,4
+42400407,65,10,0,1,8:22 PM,6:01,Jump Ball Jal. Williams vs. Nembhard: Tip to Hartenstein,,,,,4
+42400407,70,1,1,1,8:22 PM,5:48,Caruso 25' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 2 AST),,,14 - 16,2,4
+42400407,72,6,2,1,8:23 PM,5:36,Jal. Williams S.FOUL (P1.T3) (J.Tiven),,,,,4
+42400407,74,3,11,1,8:23 PM,5:36,,,Nembhard Free Throw 1 of 2 (3 PTS),15 - 16,1,5
+42400407,75,8,0,1,8:23 PM,5:36,SUB: Wallace FOR Hartenstein,,,,,4
+42400407,76,8,0,1,8:23 PM,5:36,,,SUB: Sheppard FOR Mathurin,,,5
+42400407,79,3,12,1,8:23 PM,5:36,,,Nembhard Free Throw 2 of 2 (4 PTS),16 - 16,TIE,5
+42400407,80,2,6,1,8:24 PM,5:20,MISS Caruso 4' Driving Layup,,,,,4
+42400407,81,4,0,1,8:24 PM,5:18,,,Turner REBOUND (Off:0 Def:1),,,5
+42400407,82,5,1,1,8:24 PM,5:00,Caruso STEAL (1 STL),,Haliburton Bad Pass Turnover (P1.T1),,,5
+42400407,84,1,50,1,8:24 PM,4:55,Jal. Williams 2' Running Dunk (2 PTS) (Gilgeous-Alexander 3 AST),,,16 - 18,2,4
+42400407,86,9,1,1,8:24 PM,4:55,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3
+42400407,87,8,0,1,8:27 PM,4:55,,,SUB: McConnell FOR Haliburton,,,5
+42400407,88,8,0,1,8:27 PM,4:55,,,SUB: Mathurin FOR Nembhard,,,5
+42400407,89,8,0,1,8:27 PM,4:55,,,SUB: Siakam FOR Turner,,,5
+42400407,93,2,86,1,8:29 PM,4:32,,,MISS McConnell 14' Turnaround Fadeaway Shot,,,5
+42400407,95,4,0,1,8:29 PM,4:31,,,Pacers Rebound,,,3
+42400407,96,5,11,1,8:29 PM,4:31,,,Pacers Turnover: Shot Clock (T#2),,,3
+42400407,97,2,1,1,8:29 PM,4:19,MISS Caruso 24' 3PT Jump Shot,,,,,4
+42400407,98,4,0,1,8:29 PM,4:16,,,Mathurin REBOUND (Off:1 Def:1),,,5
+42400407,99,1,75,1,8:29 PM,4:05,,,Siakam 3' Driving Finger Roll Layup (5 PTS) (Mathurin 2 AST),18 - 18,TIE,5
+42400407,101,6,2,1,8:29 PM,4:05,Caruso S.FOUL (P1.T4) (J.Capers),,,,,4
+42400407,103,8,0,1,8:29 PM,4:05,SUB: Holmgren FOR Dort,,,,,4
+42400407,104,8,0,1,8:29 PM,4:05,SUB: K. Williams FOR Jal. Williams,,,,,4
+42400407,107,3,10,1,8:30 PM,4:05,,,MISS Siakam Free Throw 1 of 1,,,5
+42400407,108,4,0,1,8:30 PM,4:02,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,,,4
+42400407,109,2,86,1,8:30 PM,3:52,MISS Gilgeous-Alexander 13' Turnaround Fadeaway Shot,,,,,4
+42400407,110,4,0,1,8:30 PM,3:50,,,Siakam REBOUND (Off:0 Def:1),,,5
+42400407,111,2,101,1,8:30 PM,3:41,,,MISS Mathurin 6' Driving Floating Jump Shot,,,5
+42400407,112,4,0,1,8:30 PM,3:39,Caruso REBOUND (Off:0 Def:1),,,,,4
+42400407,113,2,1,1,8:31 PM,3:32,MISS Caruso 26' 3PT Jump Shot,,,,,4
+42400407,114,4,0,1,8:31 PM,3:27,K. Williams REBOUND (Off:1 Def:0),,,,,4
+42400407,115,1,79,1,8:31 PM,3:18,Gilgeous-Alexander 6' Pullup Jump Shot (8 PTS),,,18 - 20,2,4
+42400407,116,2,102,1,8:31 PM,3:06,,,MISS Toppin 6' Driving Floating Bank Jump Shot,,,5
+42400407,117,4,0,1,8:31 PM,3:04,Holmgren REBOUND (Off:0 Def:4),,,,,4
+42400407,118,1,101,1,8:31 PM,2:48,Holmgren 8' Driving Floating Jump Shot (4 PTS) (Gilgeous-Alexander 4 AST),,,18 - 22,4,4
+42400407,120,1,79,1,8:32 PM,2:26,,,Siakam 15' Pullup Jump Shot (7 PTS) (McConnell 1 AST),20 - 22,2,5
+42400407,122,2,79,1,8:32 PM,1:59,MISS Gilgeous-Alexander 18' Pullup Jump Shot,,,,,4
+42400407,123,4,0,1,8:32 PM,1:56,,,McConnell REBOUND (Off:0 Def:1),,,5
+42400407,124,5,1,1,8:32 PM,1:41,Caruso STEAL (2 STL),,McConnell Bad Pass Turnover (P1.T3),,,5
+42400407,126,2,79,1,8:33 PM,1:19,MISS Wallace 19' Pullup Jump Shot,,,,,4
+42400407,127,4,0,1,8:33 PM,1:18,THUNDER Rebound,,,,,2
+42400407,128,5,11,1,8:33 PM,1:18,THUNDER Turnover: Shot Clock (T#1),,,,,2
+42400407,129,8,0,1,8:33 PM,1:18,SUB: Wiggins FOR Gilgeous-Alexander,,,,,4
+42400407,131,8,0,1,8:33 PM,1:18,SUB: Jal. Williams FOR Caruso,,,,,4
+42400407,133,2,79,1,8:33 PM,1:09,,,MISS McConnell 15' Pullup Jump Shot,,,5
+42400407,134,4,0,1,8:33 PM,1:06,Jal. Williams REBOUND (Off:0 Def:1),,,,,4
+42400407,135,2,1,1,8:34 PM,0:59,MISS K. Williams 30' 3PT Jump Shot,,,,,4
+42400407,136,4,0,1,8:34 PM,0:56,,,Pacers Rebound,,,3
+42400407,138,2,6,1,8:34 PM,0:37,,,MISS Mathurin 8' Driving Layup,,,5
+42400407,140,4,0,1,8:34 PM,0:34,,,Mathurin REBOUND (Off:2 Def:1),,,5
+42400407,141,1,72,1,8:34 PM,0:34,,,Mathurin Putback Layup (2 PTS),22 - 22,TIE,5
+42400407,142,1,6,1,8:34 PM,0:22,Jal. Williams 1' Driving Layup (4 PTS),,,22 - 24,2,4
+42400407,143,5,2,1,8:35 PM,0:05,Wallace STEAL (1 STL),,McConnell Lost Ball Turnover (P2.T4),,,5
+42400407,145,6,2,1,8:35 PM,0:01,,,McConnell S.FOUL (P1.T3) (J.Capers),,,5
+42400407,147,3,11,1,8:35 PM,0:01,MISS Holmgren Free Throw 1 of 2,,,,,4
+42400407,148,4,1,1,8:35 PM,0:01,THUNDER Rebound,,,,,2
+42400407,149,8,0,1,8:35 PM,0:01,,,SUB: Bradley FOR Mathurin,,,5
+42400407,151,3,12,1,8:36 PM,0:01,Holmgren Free Throw 2 of 2 (5 PTS),,,22 - 25,3,4
+42400407,152,2,1,1,8:36 PM,0:00,,,MISS Siakam 33' 3PT Jump Shot,,,5
+42400407,153,4,0,1,8:36 PM,0:00,,,Pacers Rebound,,,3
+42400407,154,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,22 - 25,3,0
+42400407,161,12,0,2,8:40 PM,12:00,,Start of 2nd Period (8:40 PM EST),,22 - 25,3,0
+42400407,162,2,52,2,8:40 PM,11:47,MISS Hartenstein 2' Alley Oop Dunk,,,,,4
+42400407,163,4,0,2,8:40 PM,11:45,,,Sheppard REBOUND (Off:0 Def:1),,,5
+42400407,164,1,1,2,8:40 PM,11:39,,,Mathurin 25' 3PT Jump Shot (5 PTS) (McConnell 2 AST),25 - 25,TIE,5
+42400407,166,6,2,2,8:40 PM,11:24,,,Bradley S.FOUL (P1.T1) (J.Tiven),,,5
+42400407,168,3,11,2,8:41 PM,11:24,MISS Hartenstein Free Throw 1 of 2,,,,,4
+42400407,169,4,1,2,8:41 PM,11:24,THUNDER Rebound,,,,,2
+42400407,170,3,12,2,8:41 PM,11:24,MISS Hartenstein Free Throw 2 of 2,,,,,4
+42400407,171,4,0,2,8:41 PM,11:22,,,Bradley REBOUND (Off:0 Def:1),,,5
+42400407,172,6,2,2,8:41 PM,11:03,Wallace S.FOUL (P1.T1) (J.Tiven),,,,,4
+42400407,174,3,11,2,8:42 PM,11:03,,,Siakam Free Throw 1 of 2 (8 PTS),26 - 25,-1,5
+42400407,175,3,12,2,8:42 PM,11:03,,,MISS Siakam Free Throw 2 of 2,,,5
+42400407,176,4,0,2,8:42 PM,11:01,Hartenstein REBOUND (Off:0 Def:2),,,,,4
+42400407,177,2,80,2,8:42 PM,10:45,MISS Jal. Williams 27' 3PT Step Back Jump Shot,,,,,4
+42400407,178,4,0,2,8:42 PM,10:42,Wallace REBOUND (Off:1 Def:0),,,,,4
+42400407,179,1,108,2,8:43 PM,10:34,Caruso 1' Cutting Dunk Shot (8 PTS) (Hartenstein 2 AST),,,26 - 27,1,4
+42400407,181,6,2,2,8:43 PM,10:21,Jal. Williams S.FOUL (P2.T2) (S.Wright),,,,,4
+42400407,183,3,11,2,8:43 PM,10:21,,,Bradley Free Throw 1 of 2 (1 PTS),27 - 27,TIE,5
+42400407,184,3,12,2,8:44 PM,10:21,,,Bradley Free Throw 2 of 2 (2 PTS),28 - 27,-1,5
+42400407,185,6,1,2,8:44 PM,10:10,,,McConnell P.FOUL (P2.T2) (S.Wright),,,5
+42400407,187,2,6,2,8:44 PM,10:05,MISS Jal. Williams 3' Driving Layup,,,,,4
+42400407,188,4,0,2,8:44 PM,10:03,Hartenstein REBOUND (Off:1 Def:2),,,,,4
+42400407,189,2,1,2,8:44 PM,10:03,MISS Caruso 25' 3PT Jump Shot,,,,,4
+42400407,190,4,0,2,8:44 PM,10:02,THUNDER Rebound,,,,,2
+42400407,193,6,3,2,8:45 PM,10:02,,,Bradley L.B.FOUL (P2.T3) (J.Tiven),,,5
+42400407,195,1,98,2,8:45 PM,9:55,Hartenstein 2' Cutting Layup Shot (2 PTS) (Jal. Williams 2 AST),,,28 - 29,1,4
+42400407,198,5,2,2,8:45 PM,9:36,Caruso STEAL (3 STL),,Sheppard Lost Ball Turnover (P1.T5),,,5
+42400407,200,5,2,2,8:45 PM,9:27,Wallace Lost Ball Turnover (P1.T2),,McConnell STEAL (1 STL),,,4
+42400407,202,2,80,2,8:46 PM,9:07,,,MISS Siakam 12' Step Back Jump Shot,,,5
+42400407,203,4,0,2,8:46 PM,9:03,Hartenstein REBOUND (Off:1 Def:3),,,,,4
+42400407,204,6,2,2,8:46 PM,8:52,,,Sheppard S.FOUL (P1.T4) (S.Wright),,,5
+42400407,206,3,11,2,8:47 PM,8:52,MISS Jal. Williams Free Throw 1 of 2,,,,,4
+42400407,207,4,1,2,8:47 PM,8:52,THUNDER Rebound,,,,,2
+42400407,208,8,0,2,8:47 PM,8:52,SUB: Gilgeous-Alexander FOR Hartenstein,,,,,4
+42400407,209,8,0,2,8:47 PM,8:52,SUB: Dort FOR Caruso,,,,,4
+42400407,210,8,0,2,8:47 PM,8:52,,,SUB: Nesmith FOR McConnell,,,5
+42400407,211,8,0,2,8:47 PM,8:52,,,SUB: Turner FOR Bradley,,,5
+42400407,212,8,0,2,8:47 PM,8:52,,,SUB: Toppin FOR Siakam,,,5
+42400407,213,8,0,2,8:47 PM,8:52,,,SUB: Nembhard FOR Mathurin,,,5
+42400407,220,3,12,2,8:47 PM,8:52,Jal. Williams Free Throw 2 of 2 (5 PTS),,,28 - 30,2,4
+42400407,221,6,2,2,8:48 PM,8:29,Wiggins S.FOUL (P1.T3) (S.Wright),,,,,4
+42400407,223,3,11,2,8:48 PM,8:29,,,MISS Turner Free Throw 1 of 2,,,5
+42400407,224,4,1,2,8:48 PM,8:29,,,Pacers Rebound,,,3
+42400407,225,3,12,2,8:48 PM,8:29,,,Turner Free Throw 2 of 2 (1 PTS),29 - 30,1,5
+42400407,226,6,1,2,8:49 PM,8:19,,,Nembhard P.FOUL (P1.PN) (S.Wright),,,5
+42400407,228,3,11,2,8:49 PM,8:19,Gilgeous-Alexander Free Throw 1 of 2 (9 PTS),,,29 - 31,2,4
+42400407,229,8,0,2,8:49 PM,8:19,,,SUB: Mathurin FOR Sheppard,,,5
+42400407,231,3,12,2,8:49 PM,8:19,Gilgeous-Alexander Free Throw 2 of 2 (10 PTS),,,29 - 32,3,4
+42400407,232,5,1,2,8:49 PM,8:16,Wallace STEAL (2 STL),,Toppin Bad Pass Turnover (P1.T6),,,5
+42400407,234,2,80,2,8:50 PM,8:05,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,,,,,4
+42400407,235,4,0,2,8:50 PM,8:01,,,Nesmith REBOUND (Off:0 Def:2),,,5
+42400407,236,2,1,2,8:50 PM,7:49,,,MISS Toppin 24' 3PT Jump Shot,,,5
+42400407,237,4,0,2,8:50 PM,7:47,,,Turner REBOUND (Off:1 Def:1),,,5
+42400407,238,1,1,2,8:50 PM,7:46,,,Nesmith 24' 3PT Jump Shot (3 PTS) (Turner 1 AST),32 - 32,TIE,5
+42400407,240,2,1,2,8:50 PM,7:30,MISS Dort 28' 3PT Jump Shot,,,,,4
+42400407,241,4,0,2,8:50 PM,7:24,,,Toppin REBOUND (Off:0 Def:1),,,5
+42400407,242,5,2,2,8:50 PM,7:23,Wallace STEAL (3 STL),,Toppin Lost Ball Turnover (P2.T7),,,5
+42400407,244,1,80,2,8:50 PM,7:16,Gilgeous-Alexander 16' Step Back Jump Shot (12 PTS),,,32 - 34,2,4
+42400407,245,9,1,2,8:51 PM,7:14,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3
+42400407,246,8,0,2,8:53 PM,7:14,SUB: Holmgren FOR Jal. Williams,,,,,4
+42400407,247,8,0,2,8:53 PM,7:14,SUB: Caruso FOR Wiggins,,,,,4
+42400407,250,2,6,2,8:55 PM,6:52,,,MISS Mathurin 3' Driving Layup,,,5
+42400407,251,4,0,2,8:55 PM,6:50,Gilgeous-Alexander REBOUND (Off:0 Def:3),,,,,4
+42400407,252,1,2,2,8:55 PM,6:46,Wallace 27' 3PT Running Jump Shot (3 PTS) (Gilgeous-Alexander 5 AST),,,32 - 37,5,4
+42400407,254,6,2,2,8:55 PM,6:25,Wallace S.FOUL (P2.T4) (S.Wright),,,,,4
+42400407,256,3,11,2,8:56 PM,6:25,,,MISS Turner Free Throw 1 of 2,,,5
+42400407,257,4,1,2,8:56 PM,6:25,,,Pacers Rebound,,,3
+42400407,262,3,12,2,8:56 PM,6:25,,,MISS Turner Free Throw 2 of 2,,,5
+42400407,279,8,0,2,8:56 PM,6:25,,,SUB: McConnell FOR Mathurin,,,5
+42400407,280,8,0,2,8:56 PM,6:25,,,SUB: Siakam FOR Toppin,,,5
+42400407,263,4,0,2,8:56 PM,6:21,Dort REBOUND (Off:0 Def:1),,,,,4
+42400407,269,5,1,2,8:56 PM,6:19,Dort Bad Pass Turnover (P1.T3),,Nesmith STEAL (1 STL),,,4
+42400407,264,2,79,2,8:56 PM,6:17,,,MISS McConnell 15' Pullup Jump Shot,,,5
+42400407,265,4,0,2,8:56 PM,6:11,Gilgeous-Alexander REBOUND (Off:0 Def:4),,,,,4
+42400407,266,2,1,2,8:56 PM,6:05,MISS Wallace 26' 3PT Jump Shot,,,,,4
+42400407,267,4,0,2,8:56 PM,6:05,,,Pacers Rebound,,,3
+42400407,271,1,73,2,8:57 PM,5:48,,,McConnell 2' Driving Reverse Layup (2 PTS),34 - 37,3,5
+42400407,272,2,1,2,8:57 PM,5:36,MISS Holmgren 3PT Jump Shot,,,,,4
+42400407,273,4,0,2,8:57 PM,5:32,,,Nesmith REBOUND (Off:0 Def:3),,,5
+42400407,274,1,6,2,8:57 PM,5:23,,,Nembhard 2' Driving Layup (6 PTS) (McConnell 3 AST),36 - 37,1,5
+42400407,276,9,1,2,8:57 PM,5:22,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2
+42400407,283,8,0,2,9:00 PM,5:22,SUB: Jal. Williams FOR Wallace,,,,,4
+42400407,285,2,1,2,9:01 PM,5:09,MISS Jal. Williams 26' 3PT Jump Shot,,,,,4
+42400407,286,4,0,2,9:01 PM,5:05,,,Nembhard REBOUND (Off:1 Def:2),,,5
+42400407,287,2,2,2,9:01 PM,4:59,,,MISS Nesmith 25' 3PT Running Jump Shot,,,5
+42400407,288,4,0,2,9:01 PM,4:57,Dort REBOUND (Off:0 Def:2),,,,,4
+42400407,289,1,1,2,9:02 PM,4:46,Dort 26' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 6 AST),,,36 - 40,4,4
+42400407,291,1,1,2,9:02 PM,4:25,,,Turner 16' Jump Shot (3 PTS),38 - 40,2,5
+42400407,293,2,1,2,9:02 PM,4:13,MISS Dort 26' 3PT Jump Shot,,,,,4
+42400407,294,4,0,2,9:02 PM,4:10,,,Nembhard REBOUND (Off:1 Def:3),,,5
+42400407,295,1,79,2,9:03 PM,3:53,,,McConnell 15' Pullup Jump Shot (4 PTS),40 - 40,TIE,5
+42400407,296,2,6,2,9:03 PM,3:40,MISS Holmgren 7' Driving Layup,,McConnell BLOCK (1 BLK),,,4
+42400407,298,4,0,2,9:03 PM,3:38,,,McConnell REBOUND (Off:0 Def:2),,,5
+42400407,299,2,1,2,9:03 PM,3:32,,,MISS Turner 25' 3PT Jump Shot,,,5
+42400407,300,4,0,2,9:03 PM,3:28,Dort REBOUND (Off:0 Def:3),,,,,4
+42400407,301,2,6,2,9:03 PM,3:21,MISS Gilgeous-Alexander 4' Driving Layup,,Siakam BLOCK (1 BLK),,,4
+42400407,303,4,0,2,9:03 PM,3:18,,,McConnell REBOUND (Off:0 Def:3),,,5
+42400407,304,5,45,2,9:03 PM,3:13,,,Siakam Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5
+42400407,305,8,0,2,9:03 PM,3:13,SUB: Wallace FOR Holmgren,,,,,4
+42400407,306,8,0,2,9:03 PM,3:13,SUB: Hartenstein FOR Caruso,,,,,4
+42400407,307,8,0,2,9:03 PM,3:13,,,SUB: Mathurin FOR McConnell,,,5
+42400407,311,7,5,2,9:04 PM,3:04,,,Turner Violation:Kicked Ball (J.Tiven),,,5
+42400407,312,1,75,2,9:04 PM,2:55,Gilgeous-Alexander 3' Driving Finger Roll Layup (14 PTS) (Jal. Williams 3 AST),,,40 - 42,2,4
+42400407,313,7,2,2,9:04 PM,2:55,,,Turner Violation:Defensive Goaltending (J.Capers),,,5
+42400407,314,2,79,2,9:05 PM,2:44,,,MISS Nembhard 13' Pullup Jump Shot,,,5
+42400407,315,4,0,2,9:05 PM,2:44,Hartenstein REBOUND (Off:1 Def:4),,,,,4
+42400407,316,2,1,2,9:05 PM,2:22,MISS Dort 26' 3PT Jump Shot,,,,,4
+42400407,317,4,0,2,9:05 PM,2:19,Hartenstein REBOUND (Off:2 Def:4),,,,,4
+42400407,318,8,0,2,9:05 PM,2:19,,,SUB: Toppin FOR Turner,,,5
+42400407,320,10,0,2,9:06 PM,2:19, ,,,,,4
+42400407,323,5,2,2,9:06 PM,2:17,Hartenstein Lost Ball Turnover (P1.T4),,Nesmith STEAL (2 STL),,,4
+42400407,326,1,79,2,9:06 PM,2:02,,,Mathurin 24' 3PT Pullup Jump Shot (8 PTS),43 - 42,-1,5
+42400407,327,5,6,2,9:06 PM,1:49,Hartenstein Double Dribble Turnover (P2.T5),,,,,4
+42400407,328,8,0,2,9:07 PM,1:49,SUB: Caruso FOR Dort,,,,,4
+42400407,330,2,1,2,9:07 PM,1:30,,,MISS Toppin 25' 3PT Jump Shot,,,5
+42400407,331,4,0,2,9:07 PM,1:28,,,Pacers Rebound,,,3
+42400407,332,6,3,2,9:07 PM,1:28,Wallace L.B.FOUL (P3.PN) (J.Tiven),,,,,4
+42400407,334,3,11,2,9:08 PM,1:28,,,Siakam Free Throw 1 of 2 (9 PTS),44 - 42,-2,5
+42400407,339,3,12,2,9:08 PM,1:28,,,Siakam Free Throw 2 of 2 (10 PTS),45 - 42,-3,5
+42400407,335,8,0,2,9:08 PM,1:28,SUB: Dort FOR Wallace,,,,,4
+42400407,336,8,0,2,9:08 PM,1:28,,,SUB: McConnell FOR Nesmith,,,5
+42400407,340,2,80,2,9:09 PM,1:07,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,,,,,4
+42400407,341,4,0,2,9:09 PM,1:03,,,Siakam REBOUND (Off:0 Def:2),,,5
+42400407,342,2,80,2,9:09 PM,0:49,,,MISS Nembhard 15' Step Back Jump Shot,,,5
+42400407,343,4,0,2,9:09 PM,0:46,Jal. Williams REBOUND (Off:0 Def:2),,,,,4
+42400407,344,1,98,2,9:09 PM,0:39,Hartenstein 3' Cutting Layup Shot (4 PTS) (Gilgeous-Alexander 7 AST),,,45 - 44,-1,4
+42400407,346,6,2,2,9:09 PM,0:39,,,Toppin S.FOUL (P1.PN) (J.Capers),,,5
+42400407,348,8,0,2,9:09 PM,0:39,SUB: Wiggins FOR Jal. Williams,,,,,4
+42400407,350,3,10,2,9:10 PM,0:39,Hartenstein Free Throw 1 of 1 (5 PTS),,,45 - 45,TIE,4
+42400407,351,6,4,2,9:10 PM,0:37,,,Mathurin OFF.Foul (P1) (S.Wright),,,5
+42400407,353,5,37,2,9:10 PM,0:37,,,Mathurin Offensive Foul Turnover (P1.T9),,,5
+42400407,354,8,0,2,9:10 PM,0:37,SUB: Holmgren FOR Hartenstein,,,,,4
+42400407,356,6,2,2,9:11 PM,0:24,,,Nembhard S.FOUL (P2.PN) (J.Tiven),,,5
+42400407,358,3,11,2,9:11 PM,0:24,Gilgeous-Alexander Free Throw 1 of 2 (15 PTS),,,45 - 46,1,4
+42400407,359,8,0,2,9:11 PM,0:24,,,SUB: Nesmith FOR McConnell,,,5
+42400407,361,3,12,2,9:11 PM,0:24,Gilgeous-Alexander Free Throw 2 of 2 (16 PTS),,,45 - 47,2,4
+42400407,362,1,80,2,9:12 PM,0:04,,,Nembhard 25' 3PT Step Back Jump Shot (9 PTS),48 - 47,-1,5
+42400407,363,2,79,2,9:12 PM,0:00,MISS Gilgeous-Alexander 48' 3PT Pullup Jump Shot,,,,,4
+42400407,364,4,0,2,9:12 PM,0:00,THUNDER Rebound,,,,,2
+42400407,365,13,0,2,9:12 PM,0:00,,End of 2nd Period (9:12 PM EST),,48 - 47,-1,0
+42400407,371,12,0,3,9:30 PM,12:00,,Start of 3rd Period (9:30 PM EST),,48 - 47,-1,0
+42400407,372,2,79,3,9:30 PM,11:37,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,,,,,4
+42400407,373,4,0,3,9:30 PM,11:35,THUNDER Rebound,,,,,2
+42400407,375,2,1,3,9:31 PM,11:33,MISS Gilgeous-Alexander 3PT Jump Shot,,,,,4
+42400407,376,4,0,3,9:31 PM,11:31,Holmgren REBOUND (Off:1 Def:4),,,,,4
+42400407,377,1,72,3,9:31 PM,11:30,Holmgren 2' Putback Layup (7 PTS),,,48 - 49,1,4
+42400407,378,5,40,3,9:31 PM,11:14,,,Nembhard Out of Bounds Lost Ball Turnover (P1.T10),,,5
+42400407,379,2,1,3,9:31 PM,11:02,MISS Jal. Williams 25' 3PT Jump Shot,,,,,4
+42400407,380,4,0,3,9:31 PM,10:59,Dort REBOUND (Off:1 Def:3),,,,,4
+42400407,381,1,79,3,9:32 PM,10:46,Dort 27' 3PT Pullup Jump Shot (8 PTS),,,48 - 52,4,4
+42400407,382,2,101,3,9:32 PM,10:34,Holmgren BLOCK (2 BLK),,MISS Mathurin 6' Driving Floating Jump Shot,,,5
+42400407,384,4,0,3,9:32 PM,10:34,,,Mathurin REBOUND (Off:3 Def:1),,,5
+42400407,385,1,1,3,9:32 PM,10:30,,,Siakam 27' 3PT Jump Shot (13 PTS) (Mathurin 3 AST),51 - 52,1,5
+42400407,387,6,1,3,9:32 PM,10:14,,,Nesmith P.FOUL (P3.T1) (J.Capers),,,5
+42400407,389,2,98,3,9:33 PM,10:00,MISS Caruso 2' Cutting Layup Shot,,,,,4
+42400407,390,4,0,3,9:33 PM,9:57,Caruso REBOUND (Off:1 Def:1),,,,,4
+42400407,391,1,97,3,9:33 PM,9:57,Caruso Tip Layup Shot (10 PTS),,,51 - 54,3,4
+42400407,393,2,79,3,9:33 PM,9:43,,,MISS Nembhard 28' 3PT Pullup Jump Shot,,,5
+42400407,394,4,0,3,9:33 PM,9:41,Jal. Williams REBOUND (Off:0 Def:3),,,,,4
+42400407,395,2,1,3,9:33 PM,9:34,MISS Dort 26' 3PT Jump Shot,,,,,4
+42400407,396,4,0,3,9:33 PM,9:28,,,Mathurin REBOUND (Off:3 Def:2),,,5
+42400407,397,5,2,3,9:33 PM,9:25,Jal. Williams STEAL (1 STL),,Mathurin Lost Ball Turnover (P2.T11),,,5
+42400407,399,1,41,3,9:33 PM,9:20,Jal. Williams 1' Running Layup (7 PTS),,,51 - 56,5,4
+42400407,400,9,1,3,9:34 PM,9:20,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3
+42400407,401,2,1,3,9:37 PM,9:10,,,MISS Mathurin 3PT Jump Shot,,,5
+42400407,402,4,0,3,9:37 PM,9:06,,,Nesmith REBOUND (Off:1 Def:3),,,5
+42400407,403,2,101,3,9:37 PM,9:04,,,MISS Nesmith 9' Driving Floating Jump Shot,,,5
+42400407,404,4,0,3,9:37 PM,9:04,,,Pacers Rebound,,,3
+42400407,405,6,3,3,9:38 PM,9:04,Gilgeous-Alexander L.B.FOUL (P1.T1) (J.Capers),,,,,4
+42400407,407,6,2,3,9:38 PM,8:54,Holmgren S.FOUL (P2.T2) (J.Tiven),,,,,4
+42400407,409,3,11,3,9:38 PM,8:54,,,Nembhard Free Throw 1 of 2 (10 PTS),52 - 56,4,5
+42400407,410,8,0,3,9:39 PM,8:54,,,SUB: McConnell FOR Nesmith,,,5
+42400407,412,3,12,3,9:39 PM,8:54,,,Nembhard Free Throw 2 of 2 (11 PTS),53 - 56,3,5
+42400407,413,2,102,3,9:39 PM,8:44,MISS Jal. Williams 6' Driving Floating Bank Jump Shot,,,,,4
+42400407,414,4,0,3,9:39 PM,8:43,,,Turner REBOUND (Off:1 Def:2),,,5
+42400407,415,1,1,3,9:39 PM,8:32,,,Turner 27' 3PT Jump Shot (6 PTS) (Nembhard 3 AST),56 - 56,TIE,5
+42400407,417,1,80,3,9:40 PM,8:16,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (19 PTS),,,56 - 59,3,4
+42400407,418,5,1,3,9:40 PM,7:54,Jal. Williams STEAL (2 STL),,McConnell Bad Pass Turnover (P3.T12),,,5
+42400407,421,8,0,3,9:40 PM,7:52,SUB: Wallace FOR Caruso,,,,,4
+42400407,423,1,1,3,9:40 PM,7:45,Holmgren 24' 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 8 AST),,,56 - 62,6,4
+42400407,425,5,1,3,9:41 PM,7:29,Dort STEAL (1 STL),,McConnell Bad Pass Turnover (P4.T13),,,5
+42400407,427,1,1,3,9:41 PM,7:16,Jal. Williams 24' 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 9 AST),,,56 - 65,9,4
+42400407,429,9,1,3,9:41 PM,7:13,,,Pacers Timeout: Regular (Reg.4 Short 0),,,3
+42400407,430,8,0,3,9:43 PM,7:13,,,SUB: Toppin FOR Mathurin,,,5
+42400407,431,8,0,3,9:43 PM,7:13,,,SUB: Nesmith FOR Siakam,,,5
+42400407,434,1,6,3,9:45 PM,6:55,,,McConnell 3' Driving Layup (6 PTS),58 - 65,7,5
+42400407,435,1,6,3,9:45 PM,6:33,Gilgeous-Alexander 2' Driving Layup (21 PTS),,,58 - 67,9,4
+42400407,437,5,2,3,9:46 PM,6:10,Gilgeous-Alexander STEAL (1 STL),,Toppin Lost Ball Turnover (P3.T14),,,5
+42400407,439,2,75,3,9:46 PM,5:49,MISS Jal. Williams 3' Driving Finger Roll Layup,,,,,4
+42400407,440,4,0,3,9:46 PM,5:46,,,Turner REBOUND (Off:1 Def:3),,,5
+42400407,441,1,75,3,9:46 PM,5:38,,,McConnell 1' Driving Finger Roll Layup (8 PTS) (Nesmith 1 AST),60 - 67,7,5
+42400407,443,2,80,3,9:46 PM,5:23,MISS Gilgeous-Alexander 24' 3PT Step Back Jump Shot,,,,,4
+42400407,444,4,0,3,9:46 PM,5:21,,,Toppin REBOUND (Off:0 Def:2),,,5
+42400407,445,1,79,3,9:47 PM,5:08,,,McConnell 7' Pullup Jump Shot (10 PTS),62 - 67,5,5
+42400407,447,1,108,3,9:47 PM,4:56,Holmgren 1' Cutting Dunk Shot (12 PTS) (Gilgeous-Alexander 10 AST),,,62 - 69,7,4
+42400407,449,1,6,3,9:47 PM,4:41,,,McConnell 2' Driving Layup (12 PTS),64 - 69,5,5
+42400407,450,6,2,3,9:47 PM,4:31,,,Turner S.FOUL (P1.T2) (J.Capers),,,5
+42400407,452,3,11,3,9:48 PM,4:31,Gilgeous-Alexander Free Throw 1 of 2 (22 PTS),,,64 - 70,6,4
+42400407,459,3,12,3,9:48 PM,4:31,MISS Gilgeous-Alexander Free Throw 2 of 2,,,,,4
+42400407,453,8,0,3,9:48 PM,4:31,SUB: Caruso FOR Holmgren,,,,,4
+42400407,454,8,0,3,9:48 PM,4:31,SUB: Hartenstein FOR Jal. Williams,,,,,4
+42400407,455,8,0,3,9:48 PM,4:31,,,SUB: Bradley FOR Turner,,,5
+42400407,460,4,0,3,9:48 PM,4:30,,,Pacers Rebound,,,3
+42400407,462,2,80,3,9:49 PM,4:18,,,MISS Nembhard 11' Step Back Jump Shot,,,5
+42400407,463,4,0,3,9:49 PM,4:14,Gilgeous-Alexander REBOUND (Off:0 Def:5),,,,,4
+42400407,464,2,103,3,9:49 PM,4:09,MISS Dort 25' 3PT Running Pull-Up Jump Shot,,,,,4
+42400407,465,4,0,3,9:49 PM,4:05,Caruso REBOUND (Off:2 Def:1),,,,,4
+42400407,466,2,107,3,9:49 PM,4:05,MISS Caruso Tip Dunk Shot,,,,,4
+42400407,467,4,0,3,9:49 PM,4:04,,,McConnell REBOUND (Off:0 Def:4),,,5
+42400407,468,1,79,3,9:49 PM,3:54,,,McConnell 12' Pullup Jump Shot (14 PTS) (Toppin 1 AST),66 - 70,4,5
+42400407,470,2,1,3,9:50 PM,3:38,MISS Dort 25' 3PT Jump Shot,,,,,4
+42400407,471,4,0,3,9:50 PM,3:34,,,McConnell REBOUND (Off:0 Def:5),,,5
+42400407,472,5,45,3,9:50 PM,3:19,,,Bradley Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,5
+42400407,473,8,0,3,9:50 PM,3:19,SUB: Jal. Williams FOR Gilgeous-Alexander,,,,,4
+42400407,474,8,0,3,9:50 PM,3:19,SUB: Wiggins FOR Dort,,,,,4
+42400407,475,8,0,3,9:50 PM,3:19,,,SUB: Sheppard FOR Nembhard,,,5
+42400407,479,1,1,3,9:51 PM,3:00,Wallace 3PT Jump Shot (6 PTS) (Hartenstein 3 AST),,,66 - 73,7,4
+42400407,481,5,1,3,9:51 PM,2:45,Hartenstein STEAL (1 STL),,McConnell Bad Pass Turnover (P5.T16),,,5
+42400407,483,1,41,3,9:51 PM,2:42,Wallace 1' Running Layup (8 PTS) (Hartenstein 4 AST),,,66 - 75,9,4
+42400407,485,6,1,3,9:51 PM,2:28,Jal. Williams P.FOUL (P3.T3) (J.Capers),,,,,4
+42400407,487,8,0,3,9:51 PM,2:28,,,SUB: Mathurin FOR Nesmith,,,5
+42400407,489,8,0,3,9:51 PM,2:28,,,SUB: Bryant FOR Bradley,,,5
+42400407,491,2,1,3,9:52 PM,2:23,,,MISS Bryant 28' 3PT Jump Shot,,,5
+42400407,492,4,0,3,9:52 PM,2:20,,,Mathurin REBOUND (Off:4 Def:2),,,5
+42400407,494,5,9,3,9:53 PM,2:20,,,Pacers Turnover: 5 Second Violation (T#17),,,3
+42400407,495,1,75,3,9:53 PM,2:02,Jal. Williams 1' Driving Finger Roll Layup (12 PTS),,,66 - 77,11,4
+42400407,496,9,1,3,9:53 PM,1:56,,,Pacers Timeout: Regular (Reg.5 Short 0),,,3
+42400407,497,8,0,3,9:54 PM,1:56,,,SUB: Siakam FOR Toppin,,,5
+42400407,498,8,0,3,9:54 PM,1:56,,,SUB: Turner FOR Bryant,,,5
+42400407,501,1,79,3,9:55 PM,1:46,,,McConnell 17' Pullup Jump Shot (16 PTS),68 - 77,9,5
+42400407,502,1,80,3,9:55 PM,1:27,Jal. Williams 18' Step Back Jump Shot (14 PTS),,,68 - 79,11,4
+42400407,503,6,1,3,9:56 PM,1:17,Jal. Williams P.FOUL (P4.T4) (J.Capers),,,,,4
+42400407,505,2,1,3,9:56 PM,1:10,,,MISS Sheppard 26' 3PT Jump Shot,,,5
+42400407,506,4,0,3,9:57 PM,1:07,Hartenstein REBOUND (Off:2 Def:5),,,,,4
+42400407,507,2,79,3,9:57 PM,0:56,MISS Jal. Williams 18' Pullup Jump Shot,,,,,4
+42400407,508,4,0,3,9:57 PM,0:54,,,Mathurin REBOUND (Off:4 Def:3),,,5
+42400407,509,2,6,3,9:57 PM,0:44,,,MISS McConnell 5' Driving Layup,,,5
+42400407,510,4,0,3,9:57 PM,0:42,Hartenstein REBOUND (Off:2 Def:6),,,,,4
+42400407,511,9,1,3,9:57 PM,0:35,THUNDER Timeout: Regular (Full 3 Short 0),,,,,2
+42400407,512,8,0,3,9:58 PM,0:35,SUB: Gilgeous-Alexander FOR Jal. Williams,,,,,4
+42400407,513,8,0,3,9:58 PM,0:35,,,SUB: Nembhard FOR McConnell,,,5
+42400407,516,2,79,3,9:59 PM,0:30,MISS Gilgeous-Alexander 15' Pullup Jump Shot,,,,,4
+42400407,517,4,0,3,9:59 PM,0:29,Hartenstein REBOUND (Off:3 Def:6),,,,,4
+42400407,518,1,97,3,9:59 PM,0:29,Hartenstein Tip Layup Shot (7 PTS),,,68 - 81,13,4
+42400407,519,2,79,3,9:59 PM,0:05,Caruso BLOCK (1 BLK),,MISS Siakam 24' Pullup Jump Shot,,,5
+42400407,521,4,0,3,9:59 PM,0:01,Wiggins REBOUND (Off:0 Def:1),,,,,4
+42400407,522,2,79,3,10:00 PM,0:00,MISS Gilgeous-Alexander 50' 3PT Pullup Jump Shot,,,,,4
+42400407,523,4,0,3,10:00 PM,0:00,THUNDER Rebound,,,,,2
+42400407,524,13,0,3,10:00 PM,0:00,,End of 3rd Period (10:00 PM EST),,68 - 81,13,0
+42400407,533,12,0,4,10:03 PM,12:00,,Start of 4th Period (10:03 PM EST),,68 - 81,13,0
+42400407,534,2,6,4,10:03 PM,11:49,,,MISS Nembhard 3' Driving Layup,,,5
+42400407,536,4,0,4,10:03 PM,11:46,,,Mathurin REBOUND (Off:5 Def:3),,,5
+42400407,537,2,1,4,10:03 PM,11:42,,,MISS Toppin 27' 3PT Jump Shot,,,5
+42400407,538,4,0,4,10:03 PM,11:39,THUNDER Rebound,,,,,2
+42400407,540,1,80,4,10:04 PM,11:22,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (25 PTS),,,68 - 84,16,4
+42400407,544,5,40,4,10:04 PM,11:05,,,Nesmith Out of Bounds Lost Ball Turnover (P1.T18),,,5
+42400407,542,9,1,4,10:05 PM,11:05,THUNDER Timeout: Regular (Full 4 Short 0),,,,,2
+42400407,543,18,5,4,10:05 PM,11:05,,Instant Replay4th Period (10:05 PM EST),,68 - 84,16,0
+42400407,545,8,0,4,10:06 PM,11:05,,,SUB: McConnell FOR Toppin,,,5
+42400407,547,2,1,4,10:09 PM,10:46,MISS Gilgeous-Alexander 15' Jump Shot,,,,,4
+42400407,548,4,0,4,10:09 PM,10:44,,,Nesmith REBOUND (Off:1 Def:4),,,5
+42400407,549,2,1,4,10:09 PM,10:30,,,MISS Siakam 26' 3PT Jump Shot,,,5
+42400407,550,4,0,4,10:09 PM,10:27,THUNDER Rebound,,,,,2
+42400407,551,6,3,4,10:09 PM,10:27,,,Nesmith L.B.FOUL (P4.T1) (J.Capers),,,5
+42400407,553,2,1,4,10:10 PM,10:09,MISS Wiggins 27' 3PT Jump Shot,,,,,4
+42400407,554,4,0,4,10:10 PM,10:05,,,Nesmith REBOUND (Off:1 Def:5),,,5
+42400407,555,6,1,4,10:10 PM,9:55,Gilgeous-Alexander P.FOUL (P2.T1) (S.Wright),,,,,4
+42400407,557,6,1,4,10:10 PM,9:50,Dort P.FOUL (P2.T2) (J.Capers),,,,,4
+42400407,559,8,0,4,10:10 PM,9:50,SUB: Jal. Williams FOR Caruso,,,,,4
+42400407,561,8,0,4,10:11 PM,9:50,SUB: Wallace FOR Wiggins,,,,,4
+42400407,563,2,79,4,10:11 PM,9:41,Gilgeous-Alexander BLOCK (2 BLK),,MISS Nesmith 26' 3PT Pullup Jump Shot,,,5
+42400407,565,4,0,4,10:11 PM,9:37,,,Siakam REBOUND (Off:1 Def:2),,,5
+42400407,566,2,105,4,10:11 PM,9:36,,,MISS Siakam 10' Turnaround Fadeaway Bank Jump Shot,,,5
+42400407,567,4,0,4,10:11 PM,9:34,Holmgren REBOUND (Off:1 Def:5),,,,,4
+42400407,568,1,5,4,10:11 PM,9:15,Wallace 2' Layup (10 PTS) (Gilgeous-Alexander 11 AST),,,68 - 86,18,4
+42400407,570,2,44,4,10:12 PM,8:55,Holmgren BLOCK (3 BLK),,MISS Nesmith 1' Reverse Layup,,,5
+42400407,572,4,0,4,10:12 PM,8:53,Dort REBOUND (Off:1 Def:4),,,,,4
+42400407,573,2,79,4,10:12 PM,8:41,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,,,,,4
+42400407,574,4,0,4,10:12 PM,8:37,Wallace REBOUND (Off:2 Def:0),,,,,4
+42400407,575,1,1,4,10:12 PM,8:29,Jal. Williams 24' 3PT Jump Shot (17 PTS) (Gilgeous-Alexander 12 AST),,,68 - 89,21,4
+42400407,577,9,1,4,10:12 PM,8:27,,,Pacers Timeout: Regular (Reg.6 Short 0),,,3
+42400407,578,8,0,4,10:15 PM,8:27,,,SUB: Toppin FOR Mathurin,,,5
+42400407,579,8,0,4,10:15 PM,8:27,,,SUB: Turner FOR Siakam,,,5
+42400407,582,6,4,4,10:16 PM,8:19,,,Turner OFF.Foul (P2) (J.Capers),,,5
+42400407,584,5,37,4,10:16 PM,8:19,,,Turner Offensive Foul Turnover (P1.T19),,,5
+42400407,586,2,80,4,10:17 PM,7:58,MISS Gilgeous-Alexander 20' Step Back Jump Shot,,,,,4
+42400407,587,4,0,4,10:17 PM,7:55,Dort REBOUND (Off:2 Def:4),,,,,4
+42400407,588,2,1,4,10:17 PM,7:45,MISS Jal. Williams 27' 3PT Jump Shot,,,,,4
+42400407,589,4,0,4,10:17 PM,7:42,Holmgren REBOUND (Off:2 Def:5),,,,,4
+42400407,590,6,2,4,10:17 PM,7:41,,,Turner S.FOUL (P3.T2) (J.Tiven),,,5
+42400407,592,3,11,4,10:18 PM,7:41,Holmgren Free Throw 1 of 2 (13 PTS),,,68 - 90,22,4
+42400407,593,8,0,4,10:18 PM,7:41,SUB: Caruso FOR Dort,,,,,4
+42400407,594,8,0,4,10:18 PM,7:41,,,SUB: Siakam FOR Turner,,,5
+42400407,599,3,12,4,10:18 PM,7:41,MISS Holmgren Free Throw 2 of 2,,,,,4
+42400407,597,8,0,4,10:18 PM,7:41,,,SUB: Mathurin FOR Toppin,,,5
+42400407,600,4,0,4,10:18 PM,7:40,,,Nembhard REBOUND (Off:1 Def:4),,,5
+42400407,601,1,1,4,10:18 PM,7:29,,,Siakam 19' Jump Shot (15 PTS) (Nembhard 4 AST),70 - 90,20,5
+42400407,603,5,1,4,10:19 PM,7:04,Gilgeous-Alexander Bad Pass Turnover (P1.T6),,Mathurin STEAL (1 STL),,,4
+42400407,605,6,1,4,10:19 PM,7:04,Caruso P.FOUL (P2.T3) (J.Capers),,,,,4
+42400407,607,6,2,4,10:19 PM,6:56,Gilgeous-Alexander S.FOUL (P3.T4) (J.Tiven),,,,,4
+42400407,609,3,11,4,10:20 PM,6:56,,,Siakam Free Throw 1 of 2 (16 PTS),71 - 90,19,5
+42400407,612,3,12,4,10:20 PM,6:56,,,MISS Siakam Free Throw 2 of 2,,,5
+42400407,610,8,0,4,10:20 PM,6:56,,,SUB: Sheppard FOR McConnell,,,5
+42400407,613,4,0,4,10:20 PM,6:55,,,Mathurin REBOUND (Off:6 Def:3),,,5
+42400407,614,2,72,4,10:20 PM,6:54,Holmgren BLOCK (4 BLK),,MISS Mathurin 10' Putback Layup,,,5
+42400407,616,4,0,4,10:20 PM,6:51,,,Sheppard REBOUND (Off:1 Def:1),,,5
+42400407,617,2,1,4,10:20 PM,6:50,,,MISS Siakam 26' 3PT Jump Shot,,,5
+42400407,618,4,0,4,10:20 PM,6:48,Jal. Williams REBOUND (Off:0 Def:4),,,,,4
+42400407,619,6,1,4,10:20 PM,6:48,,,Mathurin P.FOUL (P2.T3) (J.Capers),,,5
+42400407,621,2,79,4,10:21 PM,6:32,MISS Gilgeous-Alexander 16' Pullup Jump Shot,,,,,4
+42400407,622,4,0,4,10:21 PM,6:28,,,Sheppard REBOUND (Off:1 Def:2),,,5
+42400407,624,6,2,4,10:22 PM,6:19,Holmgren S.FOUL (P3.PN) (J.Capers),,,,,4
+42400407,626,3,11,4,10:22 PM,6:19,,,Mathurin Free Throw 1 of 2 (9 PTS),72 - 90,18,5
+42400407,627,8,0,4,10:22 PM,6:19,SUB: Hartenstein FOR Holmgren,,,,,4
+42400407,628,8,0,4,10:22 PM,6:19,SUB: Dort FOR Wallace,,,,,4
+42400407,631,3,12,4,10:22 PM,6:19,,,Mathurin Free Throw 2 of 2 (10 PTS),73 - 90,17,5
+42400407,632,5,2,4,10:23 PM,6:01,Jal. Williams Lost Ball Turnover (P1.T7),,Siakam STEAL (1 STL),,,4
+42400407,634,6,2,4,10:23 PM,5:57,Gilgeous-Alexander S.FOUL (P4.PN) (J.Tiven),,,,,4
+42400407,636,3,11,4,10:23 PM,5:57,,,Mathurin Free Throw 1 of 2 (11 PTS),74 - 90,16,5
+42400407,637,3,12,4,10:23 PM,5:57,,,Mathurin Free Throw 2 of 2 (12 PTS),75 - 90,15,5
+42400407,638,6,2,4,10:24 PM,5:50,,,Siakam S.FOUL (P1.T4) (J.Tiven),,,5
+42400407,640,18,3,4,10:25 PM,5:50,,Instant Replay4th Period (10:25 PM EST),,75 - 90,15,0
+42400407,641,3,11,4,10:26 PM,5:50,Dort Free Throw 1 of 2 (9 PTS),,,75 - 91,16,4
+42400407,642,8,0,4,10:26 PM,5:50,SUB: Wallace FOR Gilgeous-Alexander,,,,,4
+42400407,644,3,12,4,10:26 PM,5:50,MISS Dort Free Throw 2 of 2,,,,,4
+42400407,645,4,0,4,10:26 PM,5:48,,,Mathurin REBOUND (Off:6 Def:4),,,5
+42400407,646,6,2,4,10:27 PM,5:43,Dort S.FOUL (P3.PN) (J.Tiven),,,,,4
+42400407,648,3,11,4,10:28 PM,5:43,,,Mathurin Free Throw 1 of 2 (13 PTS),76 - 91,15,5
+42400407,649,8,0,4,10:28 PM,5:43,SUB: Gilgeous-Alexander FOR Wallace,,,,,4
+42400407,651,3,12,4,10:28 PM,5:43,,,Mathurin Free Throw 2 of 2 (14 PTS),77 - 91,14,5
+42400407,652,2,86,4,10:29 PM,5:20,MISS Jal. Williams 12' Turnaround Fadeaway Shot,,,,,4
+42400407,653,4,0,4,10:29 PM,5:16,Dort REBOUND (Off:3 Def:4),,,,,4
+42400407,654,2,80,4,10:29 PM,5:08,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,,,,4
+42400407,655,4,0,4,10:29 PM,5:03,,,Mathurin REBOUND (Off:6 Def:5),,,5
+42400407,656,1,6,4,10:29 PM,4:47,,,Mathurin 2' Driving Layup (16 PTS) (Nembhard 5 AST),79 - 91,12,5
+42400407,658,9,1,4,10:29 PM,4:45,THUNDER Timeout: Regular (Full 5 Short 0),,,,,2
+42400407,659,8,0,4,10:30 PM,4:45,SUB: Wallace FOR Caruso,,,,,4
+42400407,660,8,0,4,10:30 PM,4:45,SUB: Holmgren FOR Hartenstein,,,,,4
+42400407,661,8,0,4,10:30 PM,4:45,,,SUB: McConnell FOR Sheppard,,,5
+42400407,665,6,2,4,10:31 PM,4:34,,,Nembhard S.FOUL (P3.PN) (S.Wright),,,5
+42400407,667,3,11,4,10:32 PM,4:34,Gilgeous-Alexander Free Throw 1 of 2 (26 PTS),,,79 - 92,13,4
+42400407,668,3,12,4,10:32 PM,4:34,Gilgeous-Alexander Free Throw 2 of 2 (27 PTS),,,79 - 93,14,4
+42400407,669,2,63,4,10:32 PM,4:25,Holmgren BLOCK (5 BLK),,MISS McConnell 5' Fadeaway Jumper,,,5
+42400407,671,4,0,4,10:32 PM,4:24,Holmgren REBOUND (Off:2 Def:6),,,,,4
+42400407,673,2,6,4,10:32 PM,4:16,MISS Jal. Williams 2' Driving Layup,,Nesmith BLOCK (2 BLK),,,4
+42400407,675,4,0,4,10:32 PM,4:14,,,Siakam REBOUND (Off:1 Def:3),,,5
+42400407,676,6,2,4,10:32 PM,4:11,Gilgeous-Alexander S.FOUL (P5.PN) (S.Wright),,,,,4
+42400407,678,9,1,4,10:33 PM,4:11,THUNDER Timeout: Regular (Full 6 Short 0),,,,,2
+42400407,679,18,6,4,10:33 PM,4:11,,Instant Replay4th Period (10:33 PM EST),,79 - 93,14,0
+42400407,680,8,0,4,10:34 PM,4:11,SUB: Caruso FOR Wallace,,,,,4
+42400407,682,3,11,4,10:35 PM,4:11,,,Mathurin Free Throw 1 of 2 (17 PTS),80 - 93,13,5
+42400407,683,3,12,4,10:35 PM,4:11,,,Mathurin Free Throw 2 of 2 (18 PTS),81 - 93,12,5
+42400407,684,9,1,4,10:36 PM,4:11,THUNDER Timeout: Regular (Full 7 Short 0),,,,,2
+42400407,685,2,80,4,10:37 PM,3:52,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,,,,4
+42400407,686,4,0,4,10:37 PM,3:48,,,Mathurin REBOUND (Off:6 Def:6),,,5
+42400407,687,10,0,4,10:39 PM,3:33,Jump Ball Holmgren vs. Mathurin: Tip to Gilgeous-Alexander,,,,,4
+42400407,690,5,2,4,10:39 PM,3:31,Holmgren STEAL (1 STL),,McConnell Lost Ball Turnover (P6.T20),,,5
+42400407,692,2,101,4,10:39 PM,3:09,MISS Gilgeous-Alexander 6' Driving Floating Jump Shot,,,,,4
+42400407,693,4,0,4,10:39 PM,3:07,,,McConnell REBOUND (Off:0 Def:6),,,5
+42400407,694,5,2,4,10:39 PM,3:05,Dort STEAL (2 STL),,McConnell Lost Ball Turnover (P7.T21),,,5
+42400407,696,2,1,4,10:39 PM,2:49,MISS Jal. Williams 27' 3PT Jump Shot,,,,,4
+42400407,697,4,0,4,10:39 PM,2:47,THUNDER Rebound,,,,,2
+42400407,698,6,3,4,10:39 PM,2:47,,,Nesmith L.B.FOUL (P5.PN) (S.Wright),,,5
+42400407,700,3,11,4,10:40 PM,2:47,MISS Holmgren Free Throw 1 of 2,,,,,4
+42400407,701,4,1,4,10:40 PM,2:47,THUNDER Rebound,,,,,2
+42400407,702,3,12,4,10:40 PM,2:47,Holmgren Free Throw 2 of 2 (14 PTS),,,81 - 94,13,4
+42400407,703,1,80,4,10:41 PM,2:32,,,Nembhard 30' 3PT Step Back Jump Shot (14 PTS) (Siakam 2 AST),84 - 94,10,5
+42400407,705,1,108,4,10:41 PM,2:24,Holmgren 1' Cutting Dunk Shot (16 PTS) (Jal. Williams 4 AST),,,84 - 96,12,4
+42400407,707,1,6,4,10:41 PM,2:16,,,Mathurin 2' Driving Layup (20 PTS) (Nembhard 6 AST),86 - 96,10,5
+42400407,709,6,1,4,10:41 PM,1:51,,,Nesmith P.FOUL (P6.PN) (S.Wright),,,5
+42400407,711,8,0,4,10:42 PM,1:51,,,SUB: Toppin FOR Nesmith,,,5
+42400407,713,3,11,4,10:42 PM,1:51,Gilgeous-Alexander Free Throw 1 of 2 (28 PTS),,,86 - 97,11,4
+42400407,714,3,12,4,10:42 PM,1:51,Gilgeous-Alexander Free Throw 2 of 2 (29 PTS),,,86 - 98,12,4
+42400407,715,6,1,4,10:42 PM,1:41,Caruso P.FOUL (P3.PN) (J.Capers),,,,,4
+42400407,717,3,11,4,10:43 PM,1:41,,,MISS Nembhard Free Throw 1 of 2,,,5
+42400407,718,4,1,4,10:43 PM,1:41,,,Pacers Rebound,,,3
+42400407,719,3,12,4,10:43 PM,1:41,,,Nembhard Free Throw 2 of 2 (15 PTS),87 - 98,11,5
+42400407,720,6,1,4,10:44 PM,1:26,,,Mathurin P.FOUL (P3.PN) (J.Capers),,,5
+42400407,722,3,11,4,10:44 PM,1:26,Jal. Williams Free Throw 1 of 2 (18 PTS),,,87 - 99,12,4
+42400407,723,8,0,4,10:44 PM,1:26,,,SUB: Sheppard FOR McConnell,,,5
+42400407,725,3,12,4,10:45 PM,1:26,Jal. Williams Free Throw 2 of 2 (19 PTS),,,87 - 100,13,4
+42400407,726,5,2,4,10:45 PM,1:14,Dort STEAL (3 STL),,Nembhard Lost Ball Turnover (P2.T22),,,5
+42400407,728,6,1,4,10:45 PM,1:04,,,Siakam P.FOUL (P2.PN) (J.Tiven),,,5
+42400407,730,3,11,4,10:45 PM,1:04,Jal. Williams Free Throw 1 of 2 (20 PTS),,,87 - 101,14,4
+42400407,731,3,12,4,10:45 PM,1:04,MISS Jal. Williams Free Throw 2 of 2,,,,,4
+42400407,732,4,0,4,10:46 PM,1:01,,,Sheppard REBOUND (Off:1 Def:3),,,5
+42400407,733,2,103,4,10:46 PM,0:56,,,MISS Mathurin 29' 3PT Running Pull-Up Jump Shot,,,5
+42400407,734,4,0,4,10:46 PM,0:55,,,Mathurin REBOUND (Off:7 Def:6),,,5
+42400407,735,5,39,4,10:46 PM,0:55,,,Mathurin Step Out of Bounds Turnover (P3.T23),,,5
+42400407,736,2,1,4,10:47 PM,0:33,MISS Dort 3PT Jump Shot,,,,,4
+42400407,737,4,0,4,10:47 PM,0:32,THUNDER Rebound,,,,,2
+42400407,738,6,3,4,10:47 PM,0:32,,,Toppin L.B.FOUL (P2.PN) (S.Wright),,,5
+42400407,740,3,11,4,10:47 PM,0:32,Holmgren Free Throw 1 of 2 (17 PTS),,,87 - 102,15,4
+42400407,741,8,0,4,10:47 PM,0:32,SUB: Jones FOR Gilgeous-Alexander,,,,,4
+42400407,742,8,0,4,10:47 PM,0:32,SUB: Mitchell FOR Dort,,,,,4
+42400407,743,8,0,4,10:47 PM,0:32,SUB: K. Williams FOR Jal. Williams,,,,,4
+42400407,744,8,0,4,10:47 PM,0:32,SUB: Dieng FOR Caruso,,,,,4
+42400407,745,8,0,4,10:47 PM,0:32,,,SUB: Bryant FOR Nembhard,,,5
+42400407,746,8,0,4,10:47 PM,0:32,,,SUB: Furphy FOR Siakam,,,5
+42400407,753,3,12,4,10:48 PM,0:32,Holmgren Free Throw 2 of 2 (18 PTS),,,87 - 103,16,4
+42400407,754,1,6,4,10:48 PM,0:25,,,Mathurin 2' Driving Layup (22 PTS),89 - 103,14,5
+42400407,755,5,2,4,10:48 PM,0:19,Mitchell Lost Ball Turnover (P1.T8),,Mathurin STEAL (2 STL),,,4
+42400407,757,6,2,4,10:48 PM,0:19,Jones S.FOUL (P1.PN) (S.Wright),,,,,4
+42400407,759,3,11,4,10:48 PM,0:19,,,Mathurin Free Throw 1 of 2 (23 PTS),90 - 103,13,5
+42400407,760,3,12,4,10:49 PM,0:19,,,Mathurin Free Throw 2 of 2 (24 PTS),91 - 103,12,5
+42400407,761,13,0,4,10:49 PM,0:00,,End of 4th Period (10:49 PM EST),,91 - 103,12,0
